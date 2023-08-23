@@ -11,7 +11,7 @@
 <!-- default file list end -->
 # How to add the ASPxValidationSummary control to ASPxGridView's EditForm 
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e3982/)**
+**[[Run Online]](https://codecentral.devexpress.com/128537681/)**
 <!-- run online end -->
 
 
