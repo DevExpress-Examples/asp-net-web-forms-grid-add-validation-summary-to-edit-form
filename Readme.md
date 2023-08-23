@@ -12,7 +12,7 @@ Follow the steps below:
 1. Specify a custom edit form template.
 2. Use the [ASPxGridViewTemplateReplacement](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxGridViewTemplateReplacement) class to replace auto-generated edit form editors - set the [ReplacementType](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxGridViewTemplateReplacement.ReplacementType) property to `EditFormEditors`.
 3. Add the `ASPxValidationSummary` control to collect edit form template validation errors.
-4. Call the client-side [ASPxClientEdit.ValidateEditorsInContainer](https://docs.devexpress.com/AspNet/js-ASPxClientEdit.ValidateEditorsInContainer.static(container)) to validate the edit form template.
+4. Call the client-side [ASPxClientEdit.ValidateEditorsInContainer](https://docs.devexpress.com/AspNet/js-ASPxClientEdit.ValidateEditorsInContainer.static(container)) method to validate the edit form template.
 
 ## Files to Review
 
